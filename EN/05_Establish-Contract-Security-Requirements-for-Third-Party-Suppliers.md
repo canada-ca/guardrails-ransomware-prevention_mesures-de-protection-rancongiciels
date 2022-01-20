@@ -19,6 +19,4 @@ TBS
 
 ## Related Security Controls (ITSG-33)
 
-PS-7 Third-party personnel security
-CA-3 Information system connections
-CM-10 software usage restrictions
+SA-4, PS-7
