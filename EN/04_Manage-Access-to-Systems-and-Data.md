@@ -17,8 +17,8 @@ Protect accounts that are used to access systems and data to limit the ability f
 
 TBS
 
-1. Directive on Service and Digital (DSD), [Appendix G: Enterprise IT Service Standards - Account Management Configuration Requirements](https://www.gcpedia.gc.ca/gcwiki/images/2/2a/Appendix_G_-_Standard_on_Enterprise_IT_Service_Common_Updates_-_20210924.pdf)
-2. [DSM Appendix B](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32611&section=procedure&p=B#appB) (B.2.3)
+1. DSD Appendix G - [Account Management Configuration Requirements](https://www.gcpedia.gc.ca/gcwiki/images/2/2a/Appendix_G_-_Standard_on_Enterprise_IT_Service_Common_Updates_-_20210924.pdf)
+2. [DSM Appendix B](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32611&section=procedure&p=B#appB) (B.2.3), and
 3. [GC Password Guidance](https://www.canada.ca/en/government/system/digital-government/online-security-privacy/password-guidance.html#appC)
 
 CCCS

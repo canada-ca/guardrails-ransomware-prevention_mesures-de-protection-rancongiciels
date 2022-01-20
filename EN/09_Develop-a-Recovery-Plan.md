@@ -30,7 +30,7 @@ TBS
 
 CCCS
 
-1. [Ransomware Playbook (ITSM.00.099)](https://cyber.gc.ca/en/guidance/ransomware-playbook-itsm00099) (3.1)
+1. [Ransomware Playbook (ITSM.00.099)](https://cyber.gc.ca/en/guidance/ransomware-playbook-itsm00099) (3.1), and
 2. [Developing your IT Recovery Plan](https://www.cyber.gc.ca/en/guidance/developing-your-it-recovery-plan-itsap40004)
 
 ## Related Security Controls (ITSG-33)

@@ -15,22 +15,16 @@ security incidents are contained, eradicated and recovered from in a timely mann
 
 TBS
 
-1. [DSD](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32601) (4.4.4.2, 4.4.4.3)
-2. [DSM Appendix B](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32611&section=procedure&p=B#appB) (B.2.3.10)
-3. [DSM Appendix D](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32611#appD)
-4. [DSM Appendix G](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32611#appG)
-5. [DSM Appendix I](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32611#appI)
-6. [GC CSEMP](https://www.canada.ca/en/government/system/digital-government/online-security-privacy/security-identity-management/government-canada-cyber-security-event-management-plan.html#toc5) (5.2.2)
+1. [Policy on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603) (4.4.2.7)
+2. [DSD](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32601) (4.4.4.2, 4.4.4.3)
+3. [DSM Appendix B](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32611&section=procedure&p=B#appB) (B.2.3.10)
+4. [DSM Appendix D](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32611#appD), and
+5. [DSM Appendix G](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32611#appG)
 
 CCCS
 
-1. [Developing your incident response plan (ITSAP.40.003)](https://cyber.gc.ca/en/guidance/developing-your-incident-response-plan-itsap40003)
-2. [Ransomware Playbook (ITSM.00.099)](https://cyber.gc.ca/en/guidance/ransomware-playbook-itsm00099) (2.1.2), and
-3. [Report a cyber incident](https://cyber.gc.ca/en/incident-management)
-
-RCMP
-
-1. [Have You Been a Victim of Cybercrime? (00.037)](https://www.rcmp-grc.gc.ca/wam/media/5703/original/4c0809ab43ebfebba08bb0daceb99175.pdf)
+1. [Developing your incident response plan (ITSAP.40.003)](https://cyber.gc.ca/en/guidance/developing-your-incident-response-plan-itsap40003), and
+2. [Ransomware Playbook (ITSM.00.099)](https://cyber.gc.ca/en/guidance/ransomware-playbook-itsm00099) (2.1.2)
 
 ## Related Security Controls (ITSG-33)
 

@@ -17,7 +17,7 @@ TBS
 
 1. [DSM Appendix B](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32611&section=procedure&p=B#appB) (B.2.3.7)
 2. [GC Event Logging Guidance](https://www.canada.ca/en/government/system/digital-government/online-security-privacy/event-logging-guidance.html)
-3. [GC Enterprise Information Security Continuous Monitoring Framework (DRAFT)](https://www.gcpedia.gc.ca/gcwiki/images/f/f1/GC_Enterprise_Information_Security_Continuous_Monitoring_Concept_Paper.pdf).
+3. [GC Enterprise Information Security Continuous Monitoring Framework (DRAFT)](https://www.gcpedia.gc.ca/gcwiki/images/f/f1/GC_Enterprise_Information_Security_Continuous_Monitoring_Concept_Paper.pdf), and
 4. [DSD Appendix G: Account Management Configuration Requirements](https://www.gcpedia.gc.ca/gcwiki/images/5/58/Account_Management_Configuration_Requirements_20210517.pdf) (13)
 
 ## Related Security Controls (ITSG-33)

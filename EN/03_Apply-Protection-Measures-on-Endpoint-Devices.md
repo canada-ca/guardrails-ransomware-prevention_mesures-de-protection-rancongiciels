@@ -18,8 +18,8 @@ Prevent malware from running on devices by keeping them well- configured, patche
 
 TBS
 
-1. Directive on Service and Digital (DSD), [Appendix G: Enterprise IT Service Standards -](https://www.gcpedia.gc.ca/gcwiki/images/2/2a/Appendix_G_-_Standard_on_Enterprise_IT_Service_Common_Updates_-_20210924.pdf) Endpoint Management Configuration Requirements
-2. [DSM Appendix B](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32611&section=procedure&p=B#appB) (B.2.3.7)
+1. DSD Appendix G - [Endpoint Management Configuration Requirements](https://www.gcpedia.gc.ca/gcwiki/images/2/2a/Appendix_G_-_Standard_on_Enterprise_IT_Service_Common_Updates_-_20210924.pdf)
+2. [DSM Appendix B](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32611&section=procedure&p=B#appB) (B.2.3.7), and
 3. [GC Patch Management Guidance](https://www.canada.ca/en/government/system/digital-government/online-security-privacy/patch-management-guidance.html)
 
 CCCS
