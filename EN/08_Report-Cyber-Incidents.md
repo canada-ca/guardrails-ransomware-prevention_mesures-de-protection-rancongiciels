@@ -6,7 +6,7 @@ Report Ransomware incidents to relevant internal and external bodies to enable q
 
 ## Description
 
-- As ransomware is considered a criminal offence, if you are a victim of ransomware, in addition to reporting to relevant internal and external bodies, report it to the Royal Canadian Mounted Police (RCMP) by contacting NC3Cyber-CyberGNC3@rcmp-grc.gc.ca and CCCS at cyberincident@cyber.gc.ca.
+- As ransomware often involve multiple criminal offences, if you are a victim of ransomware, in addition to reporting to relevant internal and external bodies, report it to the Royal Canadian Mounted Police (RCMP) by contacting NC3Cyber-CyberGNC3@rcmp-grc.gc.ca and CCCS at cyberincident@cyber.gc.ca.
 
 ## References
 
