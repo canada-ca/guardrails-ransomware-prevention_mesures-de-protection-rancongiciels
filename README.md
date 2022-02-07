@@ -4,8 +4,8 @@
 
 The purpose of this document is to
 
-- support Government of Canada (GC) organizations in understanding existing Treasury Board of Canada Secretariat (TBS) security policy requirements in the context of ransomware prevention and mitigation; and
-- provide a baseline set of controls to protect GC information, information technology (IT) assets and infrastructure against ransomware attacks.
+- Support Government of Canada (GC) organizations in understanding existing Treasury Board of Canada Secretariat (TBS) security policy requirements in the context of ransomware prevention and mitigation; and
+- Provide a baseline set of controls to protect GC information, information technology (IT) assets and infrastructure against ransomware attacks.
 
 ## Context
 
