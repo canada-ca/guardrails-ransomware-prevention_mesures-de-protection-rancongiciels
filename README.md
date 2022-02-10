@@ -1,7 +1,3 @@
----
-title: Guardrails for Ransomware Prevention and Mitigation
----
-
 <!-- # Guardrails for Ransomware Prevention and Mitigation -->
 
 ## Purpose
