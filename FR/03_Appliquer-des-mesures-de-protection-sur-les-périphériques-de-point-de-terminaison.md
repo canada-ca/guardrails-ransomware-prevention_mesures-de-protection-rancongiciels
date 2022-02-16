@@ -12,7 +12,7 @@ Empêcher les logiciels malveillants de fonctionner sur les périphériques en l
 - Mettre en œuvre des services de cyberdéfense (p. ex., des capteurs basés sur l’hôte du CCC)
 - Utiliser les dernières versions des systèmes d’exploitation et des applications pour tirer parti des dernières fonctionnalités de sécurité.
 - Désactiver les macros pour réduire le risque de propagation du rançongiciel par les pièces jointes Microsoft Office.
-- Analyser le matériel, les logiciels et le système d’exploitation afin de détecter les vulnérabilités et appliquer des rustines et des mises à jour pour atténuer le risque que les vulnérabilités soient exploitées par un acteur de menace, conformément à la [Ligne directrice sur la gestion des rustines](https://www.canada.ca/en/government/system/digital-government/online-security-privacy/patch-management-guidance.html) du GC.
+- Analyser le matériel, les logiciels et le système d’exploitation afin de détecter les vulnérabilités et appliquer des rustines et des mises à jour pour atténuer le risque que les vulnérabilités soient exploitées par un acteur de menace, conformément à la [Ligne directrice sur la gestion des rustines](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/securite-confidentialite-ligne/orientation-gestion-rustines.html) du GC.
 
 ## Référence
 

@@ -6,7 +6,7 @@ Protéger les comptes qui sont utilisés pour accéder aux systèmes et aux donn
 
 ## Description
 
-- Utiliser des mots de passe forts, ou de préférence de mots de passe, pour tenter d’empêcher les acteurs de la menace de réussir dans les attaques de force brute, conformément à l’[Orientation sur les mots de passe](https://www.canada.ca/en/government/system/digital-government/online-security-privacy/password-guidance.html#appC) du GC.
+- Utiliser des mots de passe forts, ou de préférence de mots de passe, pour tenter d’empêcher les acteurs de la menace de réussir dans les attaques de force brute, conformément à l’[Orientation sur les mots de passe](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/securite-confidentialite-ligne/orientation-sur-mots-passe.html) du GC.
 - Utiliser l’authentification multifacteur pour empêcher la prise de contrôle de compte.
 - Veiller à ce que l’accès soit régulièrement examiné et modifié en conséquence, lorsque les personnes n’ont plus besoin ou ne devraient plus avoir accès, pour limiter la capacité de propagation des logiciels malveillants.
 - Veiller à ce que les administrateurs système évitent d’utiliser leurs comptes pour la navigation par courriel et sur le Web (afin d’éviter que les logiciels malveillants puissent fonctionner avec leur niveau élevé de privilège système), afin de réduire le risque de rançongiciel infectant les comptes d’administrateur et l’accès système associés à ces comptes.

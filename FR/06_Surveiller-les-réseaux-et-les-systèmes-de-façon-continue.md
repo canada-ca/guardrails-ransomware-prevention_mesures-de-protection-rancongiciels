@@ -6,7 +6,7 @@
 
 ## Description
 
-- Configurer la fonctionnalité de consignation pour les systèmes et les réseaux, conformément au [Guide sur la consignation d’événements](https://www.canada.ca/en/government/system/digital-government/online-security-privacy/event-logging-guidance.html) du GC.
+- Configurer la fonctionnalité de consignation pour les systèmes et les réseaux, conformément au [Guide sur la consignation d’événements](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/securite-confidentialite-ligne/guide-sur-la-consignation-evenements.html) du GC.
 - Limiter l’accès aux journaux à ceux qui doivent les examiner.
 - Mettre en œuvre des alertes automatiques afin de signaler et d’examiner les anomalies dans les profils d’activité, ainsi que les vulnérabilités et les événements potentiels qui nécessitent des mesures d’atténuation des risques.
 - Surveiller en permanence les services d’annuaire (et les autres magasins d’utilisateurs principaux) pour détecter les indicateurs de compromission ou d’attaque active.

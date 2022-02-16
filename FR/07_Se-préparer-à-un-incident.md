@@ -6,9 +6,9 @@
 
 ## Description
 
-- Élaborer un plan ministériel de gestion des événements de cybersécurité avec des rôles et des responsabilités clairs, conformément au [Plan de gestion des événements de cybersécurité du gouvernement du Canada](https://www.canada.ca/en/government/system/digital-government/online-security-privacy/security-identity-management/government-canada-cyber-security-event-management-plan.html#toc5).
+- Élaborer un plan ministériel de gestion des événements de cybersécurité avec des rôles et des responsabilités clairs, conformément au [Plan de gestion des événements de cybersécurité du gouvernement du Canada](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/securite-confidentialite-ligne/gestion-securite-identite/plan-gestion-evenements-cybersecurite-gouvernement-canada.html).
 - Tenir à jour une liste des contacts internes et externes pour les attaques de rançongiciels, y compris les services de police.
-- Étant donné que le rançongiciel est considéré comme une infraction criminelle, si vous êtes victime de rançongiciel, en plus de vous présenter aux organismes internes et externes pertinents, signalez-le à la Gendarmerie royale du Canada (GRC) en communiquant avec NC3Cyber-CyberGNC3@rcmp-grc.gc.ca et le [CCC](https://cyber.gc.ca/en/incident-management) à cyberincident@cyber.gc.ca.
+- Étant donné que le rançongiciel est considéré comme une infraction criminelle, si vous êtes victime de rançongiciel, en plus de vous présenter aux organismes internes et externes pertinents, signalez-le à la Gendarmerie royale du Canada (GRC) en communiquant avec NC3Cyber-CyberGNC3@rcmp-grc.gc.ca et le [CCC](https://cyber.gc.ca/fr/cyberincidents) à cyberincident@cyber.gc.ca.
 
 ## Référence
 
