@@ -9,7 +9,7 @@ Signaler les incidents liés aux rançongiciels aux organismes internes et exter
 - Comme les rançongiciels impliquent souvent de multiples infractions criminelles, si vous êtes victime de rançongiciels, en plus de signaler l’incident aux organismes internes et externes pertinents, signalez-le à la Gendarmerie royale du Canada (GRC) en communiquant avec NC3Cyber-CyberGNC3@rcmp-grc.gc.ca et CCC à cyberincident@cyber.gc.ca.
 - Si l’incident implique une atteinte à la vie privée (c’est-à-dire, un acteur non autorisé ayant accès aux données, que les données soient exfiltrées ou non), le Commissariat à la protection de la vie privée du Canada (CPVP) doit être avisé de l’atteinte et des mesures d’atténuation mises en œuvre.
 
-## References
+## Référence
 
 SCT
 
