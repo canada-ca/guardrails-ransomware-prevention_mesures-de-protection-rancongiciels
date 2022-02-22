@@ -20,6 +20,6 @@ SCT
 3. [Cadre de surveillance continue de la sécurité de l’information intégrée du GC (ÉBAUCHE)](https://www.gcpedia.gc.ca/gcwiki/images/f/f1/GC_Enterprise_Information_Security_Continuous_Monitoring_Concept_Paper.pdf), et
 4. [Directive sur les services et le numérique, annexe G : Configuration requise pour la gestion des comptes](https://www.gcpedia.gc.ca/gcwiki/images/c/c9/13_-_Exigences_de_configuration_relatives_%C3%83_la_gestion_du_syst%C3%83%C2%A8me.pdf) (13)
 
-## Related Security Controls (ITSG-33)
+## Contrôles de sécurité connexes (ITSG-33)
 
 SI‑2, SI‑4, SI-4(23), AU‑2, AU‑3, AU‑6, AU‑8, AU‑9, AU‑9(4), AU‑12

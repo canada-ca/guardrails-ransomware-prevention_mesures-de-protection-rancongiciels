@@ -7,6 +7,7 @@ Report Ransomware incidents to relevant internal and external bodies to enable q
 ## Description
 
 - As ransomware often involve multiple criminal offences, if you are a victim of ransomware, in addition to reporting to relevant internal and external bodies, report it to the Royal Canadian Mounted Police (RCMP) by contacting NC3Cyber-CyberGNC3@rcmp-grc.gc.ca and CCCS at cyberincident@cyber.gc.ca.
+- If the incident involve a privacy breach (i.e. an unauthorized actor having access to data, whether the data is exfiltrated or not), the Office of the Privacy Commissioner of Canada (OPC) must be notified of the breach and of the mitigation measures being implemented.
 
 ## References
 
@@ -23,6 +24,8 @@ CCCS
 RCMP
 
 1. [Have You Been a Victim of Cybercrime? (00.037)](https://www.rcmp-grc.gc.ca/wam/media/5703/original/4c0809ab43ebfebba08bb0daceb99175.pdf)
+
+Office of the Privacy Commissioner of Canada: [Report a privacy breach at your federal institution](https://www.priv.gc.ca/en/report-a-concern/report-a-privacy-breach-at-your-organization/report-a-privacy-breach-at-your-federal-institution/)
 
 ## Related Security Controls (ITSG-33)
 

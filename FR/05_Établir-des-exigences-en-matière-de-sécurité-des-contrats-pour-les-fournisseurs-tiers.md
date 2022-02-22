@@ -17,6 +17,6 @@ TBS
 1. [DGS annexe F](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32611), et
 2. [Plan de gestion des événements de cybersécurité du gouvernement du Canada](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/securite-confidentialite-ligne/gestion-securite-identite/plan-gestion-evenements-cybersecurite-gouvernement-canada.html#toc5)
 
-## Related Security Controls (ITSG-33)
+## Contrôles de sécurité connexes (ITSG-33)
 
 SA-4, PS-7

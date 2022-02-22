@@ -52,10 +52,10 @@ The Canada wordmark and related graphics associated with this distribution are p
 
 ## Objectif
 
-Le présent document vise à
+Le présent document vise à :
 
-- Aider les organisations du GC à comprendre les exigences actuelles de la politique de sécurité du SCT dans le contexte de la prévention et de l’atténuation des rançongiciels;
-- Fournir un ensemble de mesures de base pour protéger l’information, les actifs en technologie de l’information (TI) et l’infrastructure du GC contre les attaques de rançongiciels.
+- aider les organisations du gouvernement du Canada (GC) à comprendre les exigences actuelles de la politique de sécurité du Secrétariat du Conseil du Trésor du Canada (SCT) dans le contexte de la prévention et de l’atténuation des rançongiciels; et
+- fournir un ensemble de mesures de base pour protéger l’information, les actifs en technologie de l’information (TI) et l’infrastructure du GC contre les attaques de rançongiciels.
 
 ## Contexte
 
@@ -74,7 +74,7 @@ La section qui suit décrit un ensemble de mesures de base pour protéger les in
 | 05  | [Établir des exigences en matière de sécurité des contrats pour les fournisseurs tiers](FR/05_Établir-des-exigences-en-matière-de-sécurité-des-contrats-pour-les-fournisseurs-tiers.md)    |
 | 06  | [Surveiller les réseaux et les systèmes d’information de façon continue](FR/06_Surveiller-les-réseaux-et-les-systèmes-de-façon-continue.md)                                            |
 | 07  | [Se préparer à un incident](FR/07_Se-préparer-à-un-incident.md)                                                                                                           |
-| 08  | [Report Cyber Incidents](FR/08_Report-Cyber-Incidents.md)                                                                                                               |
+| 08  | [Signaler les incidents cybernétiques](FR/08_Signaler-les-incidents-cybernétiques.md)                                                                                                               |
 | 09  | [Élaborer un plan de rétablissement](FR/09_Élaborer-un-plan-de-rétablissement.md)                                                                                                  |
 
 Pour obtenir des renseignements et des ressources plus détaillés, veuillez consulter les [Lignes directrices sur la gestion de la cybersécurité du GC à partir de GCpédia](https://www.gcpedia.gc.ca/wiki/Orientation_sur_la_cybers%C3%A9curit%C3%A9_du_GC).

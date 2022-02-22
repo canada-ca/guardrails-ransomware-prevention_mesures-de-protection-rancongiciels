@@ -31,6 +31,6 @@ CCC
 1. [Guide sur les rançongiciels (ITSM.00.099)](https://cyber.gc.ca/fr/orientation/guide-sur-les-rancongiciels-itsm00099) (3.1), et
 2. [Élaboration d’un plan de reprise informatique personnalisé](https://www.cyber.gc.ca/fr/orientation/elaboration-dun-plan-de-reprise-informatique-personnalise-itsap40004)
 
-## Related Security Controls (ITSG-33)
+## Contrôles de sécurité connexes (ITSG-33)
 
 CP-2, CP-2(1), CP-2(3), CP-2(5), CP-2(8), CP-10, IR-4, IR-5, IR-5(1), IR-6

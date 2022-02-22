@@ -34,6 +34,6 @@ CCC
 4. [Ne mordez pas à l’hameçon : Reconnaître et prévenir les attaques par hameçonnage](https://www.cyber.gc.ca/fr/orientation/ne-mordez-pas-lhamecon-reconnaitre-et-prevenir-les-attaques-par-hameconnage), et
 5. [Pratique exemplaires en cybersécurité](https://www.cyber.gc.ca/sites/default/files/publications/cse-its-cyber-hygiene-f.pdf)
 
-## Related Security Controls (ITSG-33)
+## Contrôles de sécurité connexes (ITSG-33)
 
 AC‑4, AC-17, AT-2, AT-2(1), AT-3, AT-3(3), AT-3(4), CA-2, RA-5, SC-3, SC-3(1), SC-7, SI-2, SI-3,

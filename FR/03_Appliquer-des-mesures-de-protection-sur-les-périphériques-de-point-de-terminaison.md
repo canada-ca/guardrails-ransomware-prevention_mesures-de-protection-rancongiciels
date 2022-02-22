@@ -20,12 +20,12 @@ SCT
 
 1. Directive sur les services et le numérique, annexe G: [Normes relatives aux services de la TI intégrée - Configuration requise pour la gestion des courriels](https://www.gcpedia.gc.ca/gcwiki/images/c/c9/13_-_Exigences_de_configuration_relatives_%C3%83_la_gestion_du_syst%C3%83%C2%A8me.pdf)
 2. [DGS annexe B](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32611) (B.2.3.7), et
-3. [Orientation sur la gestion des rustines du gouvernement du Canada](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/securite-confidentialite-ligne/orientation-gestion-rustines.html)
+3. [Orientation sur la gestion des rustines du GC](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/securite-confidentialite-ligne/orientation-gestion-rustines.html)
 
 CCC
 
 1. [Guide sur les rançongiciels (ITSM.00.099)](https://cyber.gc.ca/fr/orientation/guide-sur-les-rancongiciels-itsm00099) (2.2)
 
-## Related Security Controls (ITSG-33)
+## Contrôles de sécurité connexes (ITSG-33)
 
 SI-2, SI-3, SI-4, SI-4(23), RA-5,
