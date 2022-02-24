@@ -50,14 +50,14 @@ The Canada wordmark and related graphics associated with this distribution are p
 
 # Mesures de protection pour la prévention et l’atténuation des rançongiciels
 
-## Objectif
+## Objectifs
 
 Le présent document vise à :
 
-- aider les organisations du gouvernement du Canada (GC) à comprendre les exigences actuelles de la politique de sécurité du Secrétariat du Conseil du Trésor du Canada (SCT) dans le contexte de la prévention et de l’atténuation des rançongiciels; et
+- aider les organisations du gouvernement du Canada (GC) à comprendre les exigences actuelles de la politique de sécurité du Secrétariat du Conseil du Trésor du Canada (SCT) dans le contexte de la prévention et de l’atténuation des rançongiciels;
 - fournir un ensemble de mesures de base pour protéger l’information, les actifs en technologie de l’information (TI) et l’infrastructure du GC contre les attaques de rançongiciels.
 
-## Contexte
+## Renseignements
 
 Le rançongiciel est une cybermenace croissante qui compromet la sécurité de nos citoyens, la sécurité de l’environnement en ligne et la prospérité de nos économies. Il peut constituer une menace importante pour les gouvernements, les infrastructures critiques et les services essentiels desquels dépendent tous nos citoyens. Le Centre canadien pour la cybersécurité (CCC) définit le rançongiciel comme un type de logiciel malveillant qui empêche un utilisateur d’accéder à un système ou à des données jusqu’à ce qu’une somme d’argent soit versée<sup>1</sup>. Les rançongiciels peuvent entraîner de graves incidences, notamment des interruptions de service, des pertes permanentes de données, des vols de propriété intellectuelle, des atteintes à la vie privée, des dommages à la réputation et des coûts de récupération élevés.
 
@@ -69,7 +69,7 @@ La section qui suit décrit un ensemble de mesures de base pour protéger les in
 | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 01  | [Sauvegarder régulièrement les données et les systèmes importants](FR/01_Sauvegarder-régulièrement-les-données-et-les-systèmes-importants.md)                                                |
 | 02  | [Empêcher que les logiciels malveillants ne soient livrés et ne se propagent aux périphériques](FR/02_Empêcher-que-les-logiciels-malveillants-ne-soient-livrés-et-ne-se-propagent-aux-périphériques.md) |
-| 03  | [Appliquer des mesures de protection sur les périphériques de point de terminaison](FR/03_Appliquer-des-mesures-de-protection-sur-les-périphériques-de-point-de-terminaison.md)                             |
+| 03  | [Instaurer des mesures de protection sur les périphériques de point de terminaison](FR/03_Instaurer-des-mesures-de-protection-sur-les-périphériques-de-point-de-terminaison.md)                             |
 | 04  | [Gérer l’accès aux systèmes et aux données](FR/04_Gérer-l’accès-aux-systèmes-et-aux-données.md)                                                                                 |
 | 05  | [Établir des exigences en matière de sécurité des contrats pour les fournisseurs tiers](FR/05_Établir-des-exigences-en-matière-de-sécurité-des-contrats-pour-les-fournisseurs-tiers.md)    |
 | 06  | [Surveiller les réseaux et les systèmes d’information de façon continue](FR/06_Surveiller-les-réseaux-et-les-systèmes-de-façon-continue.md)                                            |
@@ -77,7 +77,7 @@ La section qui suit décrit un ensemble de mesures de base pour protéger les in
 | 08  | [Signaler les incidents cybernétiques](FR/08_Signaler-les-incidents-cybernétiques.md)                                                                                                               |
 | 09  | [Élaborer un plan de rétablissement](FR/09_Élaborer-un-plan-de-rétablissement.md)                                                                                                  |
 
-Pour obtenir des renseignements et des ressources plus détaillés, veuillez consulter les [Lignes directrices sur la gestion de la cybersécurité du GC à partir de GCpédia](https://www.gcpedia.gc.ca/wiki/Orientation_sur_la_cybers%C3%A9curit%C3%A9_du_GC).
+Pour obtenir des renseignements et des ressources plus détaillés, veuillez consulter les [Lignes directrices sur la gestion de la cybersécurité du GC à partir de GCpédia](https://www.gcpedia.gc.ca/wiki/Orientation_sur_la_cybersécurité_du_GC).
 
 <sup>1</sup>[Guide sur les rançongiciels (ITSM.00.099) du CCC](https://www.cyber.gc.ca/fr/orientation/guide-sur-les-rancongiciels-itsm00099)
 

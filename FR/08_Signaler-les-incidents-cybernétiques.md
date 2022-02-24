@@ -2,18 +2,18 @@
 
 ## Objectif
 
-Signaler les incidents liés aux rançongiciels aux organismes internes et externes pertinents afin qu’ils puissent fournir des réponses rapides et efficaces par rapport à ceux-ci.
+Signaler les incidents liés aux rançongiciels aux organisations internes et externes pertinentes afin qu’elles puissent fournir des réponses rapides et efficaces par rapport à ceux-ci.
 
-## Description
+## Renseignements sur le projet – Description
 
-- Comme les rançongiciels impliquent souvent de multiples infractions criminelles, si vous êtes victime de rançongiciels, en plus de signaler l’incident aux organismes internes et externes pertinents, signalez-le à la Gendarmerie royale du Canada (GRC) en communiquant avec NC3Cyber-CyberGNC3@rcmp-grc.gc.ca et CCC à cyberincident@cyber.gc.ca.
+- Comme les rançongiciels impliquent souvent de multiples infractions criminelles, si vous êtes victime de rançongiciels, en plus de signaler l’incident aux organisations internes et externes pertinentes, signalez-le à la Gendarmerie royale du Canada (GRC) en communiquant avec [NC3Cyber-CyberGNC3@rcmp-grc.gc.ca](mailto:NC3Cyber-CyberGNC3@rcmp-grc.gc.ca) et [CCC](https://cyber.gc.ca/fr/cyberincidents) à [cyberincident@cyber.gc.ca](mailto:cyberincident@cyber.gc.ca).
 - Si l’incident implique une atteinte à la vie privée (c’est-à-dire, un acteur non autorisé ayant accès aux données, que les données soient exfiltrées ou non), le Commissariat à la protection de la vie privée du Canada (CPVP) doit être avisé de l’atteinte et des mesures d’atténuation mises en œuvre.
 
 ## Référence
 
 SCT
 
-1. [DGS annexe I](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32611), et
+1. [DGS annexe I](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32611#appI), et
 2. [PGEC GC](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/securite-confidentialite-ligne/gestion-securite-identite/plan-gestion-evenements-cybersecurite-gouvernement-canada.html) (5.2.2)
 
 CCC
