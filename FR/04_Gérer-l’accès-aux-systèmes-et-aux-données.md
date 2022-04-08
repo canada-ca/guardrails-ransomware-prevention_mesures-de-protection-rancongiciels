@@ -17,14 +17,15 @@ Protéger les comptes qui sont utilisés pour accéder aux systèmes et aux donn
 
 SCT
 
-1. Directive sur les services et le numérique, annexe G - [Exigences de configuration relatives à la gestion des comptes](https://www.gcpedia.gc.ca/gcwiki/images/8/87/7_-_Exigences_de_configuration_relatives_Ã_la_gestion_des_comptes.pdf)
-2. [DGS annexe B](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32611#appB) (B.2.3), et
+1. Directive sur les services et le numérique, annexe G - [Exigences de configuration relatives à la gestion des comptes (1, 3, 4, 10 and 12)](https://www.gcpedia.gc.ca/gcwiki/images/8/87/7_-_Exigences_de_configuration_relatives_Ã_la_gestion_des_comptes.pdf)
+2. [DGS annexe B](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32611#appB) (B.2.3.2, B.2.3.2.2, B.2.3.2.4 et B.2.3.6), et
 3. [Orientation sur les mots de passe du GC](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/securite-confidentialite-ligne/orientation-sur-mots-passe.html)
 
-CCC
+CCCS
 
 1. [Gestion et contrôle des privilèges administratifs (ITSAP.10.094)](https://cyber.gc.ca/fr/orientation/gestion-et-controle-des-privileges-administratifs-itsap10094)
 2. [Guide sur les rançongiciels (ITSM.00.099)](https://cyber.gc.ca/fr/orientation/guide-sur-les-rancongiciels-itsm00099) (2.1.4)
+3. [Les 10 mesures de sécurité des TI visant à protéger les réseaux Internet et l’information (ITSM.10.089) (2.3)](https://cyber.gc.ca/fr/orientation/les-10-mesures-de-securite-des-ti-visant-proteger-les-reseaux-internet-et-0)
 
 ## Contrôles de sécurité connexes (ITSG-33)
 

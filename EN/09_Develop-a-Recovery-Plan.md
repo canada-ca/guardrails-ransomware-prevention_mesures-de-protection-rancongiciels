@@ -18,7 +18,7 @@ Develop and implement an incident recovery plan including identifying business-c
   5. Wipe & reinstall
   6. Run security software
 
-- Monitor network traffic and run antivirus scans to identify if any infection remains.
+- Monitor network traffic and run antivirus or anti-malware scans to identify if any infection remains.
 - Test IT continuity management mechanisms to ensure proper state of preparedness as an integral element of practices for departmental business continuity management.
 - As per CCCS Ransomware Playbook: “Paying the ransom does not guarantee access to your encrypted data or systems. Ultimately, the decision to pay the ransom is your organization’s to make, but it is important for your organization to be fully aware of the risks associated with paying the ransom.”
 
@@ -26,11 +26,11 @@ Develop and implement an incident recovery plan including identifying business-c
 
 TBS
 
-1. [DSM Appendix D](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32611#appD)
+1. [DSM Appendix D](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32611#appD) (D.2.2.1, D.2.2.2, D.2.2.2.4, D.2.2.3 and D.2.2.5)
 
 CCCS
 
-1. [Ransomware Playbook (ITSM.00.099)](https://cyber.gc.ca/en/guidance/ransomware-playbook-itsm00099) (3.1), and
+1. [Ransomware Playbook (ITSM.00.099)](https://cyber.gc.ca/en/guidance/ransomware-playbook-itsm00099) (1.1.3, 2.2, and 2.2.1, 3.1), and
 2. [Developing your IT Recovery Plan](https://www.cyber.gc.ca/en/guidance/developing-your-it-recovery-plan-itsap40004)
 
 ## Related Security Controls (ITSG-33)

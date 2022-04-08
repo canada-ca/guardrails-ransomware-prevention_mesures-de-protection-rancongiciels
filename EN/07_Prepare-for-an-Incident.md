@@ -18,13 +18,13 @@ TBS
 1. [Policy on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603) (4.4.2.7)
 2. [DSD](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32601) (4.4.4.2, 4.4.4.3)
 3. [DSM Appendix B](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32611&section=procedure&p=B#appB) (B.2.3.10)
-4. [DSM Appendix D](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32611#appD), and
-5. [DSM Appendix G](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32611#appG)
+4. [DSM Appendix D](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32611#appD) (D.2.2.3), and
+5. [DSM Appendix G](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32611#appG) (G.2.2)
 
 CCCS
 
 1. [Developing your incident response plan (ITSAP.40.003)](https://cyber.gc.ca/en/guidance/developing-your-incident-response-plan-itsap40003), and
-2. [Ransomware Playbook (ITSM.00.099)](https://cyber.gc.ca/en/guidance/ransomware-playbook-itsm00099) (2.1.2)
+2. [Ransomware Playbook (ITSM.00.099)](https://cyber.gc.ca/en/guidance/ransomware-playbook-itsm00099) (3.1.2.5)
 
 ## Related Security Controls (ITSG-33)
 

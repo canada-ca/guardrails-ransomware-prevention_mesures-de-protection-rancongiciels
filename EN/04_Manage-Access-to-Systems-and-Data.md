@@ -17,14 +17,15 @@ Protect accounts that are used to access systems and data to limit the ability f
 
 TBS
 
-1. DSD Appendix G - [Account Management Configuration Requirements](https://www.gcpedia.gc.ca/gcwiki/images/2/2a/Appendix_G_-_Standard_on_Enterprise_IT_Service_Common_Updates_-_20210924.pdf)
-2. [DSM Appendix B](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32611&section=procedure&p=B#appB) (B.2.3), and
+1. DSD Appendix G - [Account Management Configuration Requirements (1, 3, 4, 10 and 12)](https://www.gcpedia.gc.ca/gcwiki/images/2/2a/Appendix_G_-_Standard_on_Enterprise_IT_Service_Common_Updates_-_20210924.pdf)
+2. [DSM Appendix B](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32611&section=procedure&p=B#appB) (B.2.3.2, B.2.3.2.2, B.2.3.2.4 and B.2.3.6), and
 3. [GC Password Guidance](https://www.canada.ca/en/government/system/digital-government/online-security-privacy/password-guidance.html#appC)
 
 CCCS
 
 1. [Managing and Controlling Administrative Privileges (ITSAP.10.094)](https://cyber.gc.ca/en/guidance/managing-and-controlling-administrative-privileges-itsap10094), and
 2. [Ransomware Playbook (ITSM.00.099)](https://cyber.gc.ca/en/guidance/ransomware-playbook-itsm00099) (2.1.4)
+3. [CSE Top 10 (ITSM.10.089) (2.3)](https://cyber.gc.ca/en/guidance/top-10-it-security-actions-protect-internet-connected-networks-and-information-itsm10089)
 
 ## Related Security Controls (ITSG-33)
 

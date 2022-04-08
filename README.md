@@ -57,12 +57,12 @@ ______________________
 
 Le présent document vise à :
 
-- aider les organisations du gouvernement du Canada (GC) à comprendre les exigences actuelles de la politique de sécurité du Secrétariat du Conseil du Trésor du Canada (SCT) dans le contexte de la prévention et de l’atténuation des rançongiciels;
-- fournir un ensemble de mesures de base pour protéger l’information, les actifs en technologie de l’information (TI) et l’infrastructure du GC contre les attaques de rançongiciels.
+- aider les organisations du gouvernement du Canada (GC) à comprendre les exigences actuelles de la Politique sur la sécurité du Secrétariat du Conseil du Trésor du Canada (SCT) dans le contexte de la prévention et de l’atténuation des rançongiciels;
+- fournir un ensemble de mesures de base pour protéger l’information, les actifs de la technologie de l’information (TI) et l’infrastructure du GC contre les attaques de rançongiciels.
 
 ## Renseignements
 
-Le rançongiciel est une cybermenace croissante qui compromet la sécurité de nos citoyens, la sécurité de l’environnement en ligne et la prospérité de nos économies. Il peut constituer une menace importante pour les gouvernements, les infrastructures critiques et les services essentiels desquels dépendent tous nos citoyens. Le Centre canadien pour la cybersécurité (CCC) définit le rançongiciel comme un type de logiciel malveillant qui empêche un utilisateur d’accéder à un système ou à des données jusqu’à ce qu’une somme d’argent soit versée<sup>1</sup>. Les rançongiciels peuvent entraîner de graves incidences, notamment des interruptions de service, des pertes permanentes de données, des vols de propriété intellectuelle, des atteintes à la vie privée, des dommages à la réputation et des coûts de récupération élevés.
+Le rançongiciel est une cybermenace croissante qui compromet la sécurité de nos citoyens, la sécurité de l’environnement en ligne et la prospérité de nos économies. Il peut constituer une menace importante pour les gouvernements, les infrastructures critiques et les services essentiels desquels dépendent tous nos citoyens. Le Centre canadien pour la cybersécurité (CCCS) définit le rançongiciel comme un type de logiciel malveillant qui empêche un utilisateur d’accéder à un système ou à des données jusqu’à ce qu’une somme d’argent soit versée<sup>1</sup>. Les rançongiciels peuvent entraîner de graves incidences, notamment des interruptions de service, des pertes permanentes de données, des vols de propriété intellectuelle, des atteintes à la vie privée, des dommages à la réputation et des coûts de récupération élevés.
 
 ## Lignes directrices
 
@@ -82,7 +82,7 @@ La section qui suit décrit un ensemble de mesures de base pour protéger les in
 
 Pour obtenir des renseignements et des ressources plus détaillés, veuillez consulter les [Lignes directrices sur la gestion de la cybersécurité du GC à partir de GCpédia](https://www.gcpedia.gc.ca/wiki/Orientation_sur_la_cybersécurité_du_GC).
 
-<sup>1</sup>[Guide sur les rançongiciels (ITSM.00.099) du CCC](https://www.cyber.gc.ca/fr/orientation/guide-sur-les-rancongiciels-itsm00099)
+<sup>1</sup>[Guide sur les rançongiciels (ITSM.00.099) du CCCS](https://www.cyber.gc.ca/fr/orientation/guide-sur-les-rancongiciels-itsm00099)
 
 ## Comment contribuer
 

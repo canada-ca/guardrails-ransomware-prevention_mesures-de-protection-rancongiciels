@@ -14,8 +14,9 @@ Ensure that contracts with third-party suppliers are established to protect gove
 
 TBS
 
-1. [DSM Appendix F](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32611#appF), and
-2. [Government of Canada Cyber Security Event Management Plan](https://www.canada.ca/en/government/system/digital-government/online-security-privacy/security-identity-management/government-canada-cyber-security-event-management-plan.html#toc5) (GC CSEMP)
+1. [DSM Appendix F (F.2.3.1.2b, F.2.3.1.2c, F.2.3.2.3, F.2.4 and F.2.5)](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32611#appF)
+2. [DSD, Appendix G - System Management Configuration Requirements (4)](https://www.gcpedia.gc.ca/gcwiki/images/1/1e/System_Management_Configuration_Requirements.pdf), and
+3. [Government of Canada Cyber Security Event Management Plan](https://www.canada.ca/en/government/system/digital-government/online-security-privacy/security-identity-management/government-canada-cyber-security-event-management-plan.html#toc5) (GC CSEMP)
 
 ## Related Security Controls (ITSG-33)
 

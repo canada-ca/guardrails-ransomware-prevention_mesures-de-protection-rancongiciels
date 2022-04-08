@@ -14,8 +14,9 @@ Veiller à ce que des contrats avec les fournisseurs tiers soient établis pour 
 
 SCT
 
-1. [DGS annexe F](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32611#appF), et
-2. [Plan de gestion des événements de cybersécurité du gouvernement du Canada](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/securite-confidentialite-ligne/gestion-securite-identite/plan-gestion-evenements-cybersecurite-gouvernement-canada.html)
+1. [DGS annexe F (F.2.3.1.2b, F.2.3.1.2c, F.2.3.2.3, F.2.4 et F.2.5)](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32611#appF)
+2. [Directive sur les services et le numérique, annexe G Exigences de configuration relatives à la gestion du système (4)](https://www.gcpedia.gc.ca/gcwiki/images/3/37/Exigences_de_configuration_relatives_%C3%A0_la_gestion_du_syst%C3%A8me.pdf), et
+3. [Plan de gestion des événements de cybersécurité du gouvernement du Canada](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/securite-confidentialite-ligne/gestion-securite-identite/plan-gestion-evenements-cybersecurite-gouvernement-canada.html)
 
 ## Contrôles de sécurité connexes (ITSG-33)
 

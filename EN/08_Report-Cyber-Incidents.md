@@ -13,12 +13,12 @@ Report Ransomware incidents to relevant internal and external bodies to enable q
 
 TBS
 
-1. [DSM Appendix I](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32611#appIhttps://www.canada.ca/en/government/system/digital-government/online-security-privacy/security-identity-management/government-canada-cyber-security-event-management-plan.html#toc5) (5.2.2), and
+1. [DSM Appendix I](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32611#appIhttps://www.canada.ca/en/government/system/digital-government/online-security-privacy/security-identity-management/government-canada-cyber-security-event-management-plan.html#toc5) (I.2.2.3 and I.2.2.4), and
 2. [GC CSEMP](https://www.canada.ca/en/government/system/digital-government/online-security-privacy/security-identity-management/government-canada-cyber-security-event-management-plan.html#toc5) (5.2.2)
 
 CCCS
 
-1. [Ransomware Playbook (ITSM.00.099)](https://cyber.gc.ca/en/guidance/ransomware-playbook-itsm00099) (2.1.2), and
+1. [Ransomware Playbook (ITSM.00.099)](https://cyber.gc.ca/en/guidance/ransomware-playbook-itsm00099) (2..2), and
 2. [Report a cyber incident](https://cyber.gc.ca/en/incident-management)
 
 RCMP
