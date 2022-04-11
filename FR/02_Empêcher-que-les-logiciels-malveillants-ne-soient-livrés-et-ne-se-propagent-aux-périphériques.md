@@ -7,7 +7,7 @@ Mettre en œuvre et maintenir un modèle de défense en profondeur pour préveni
 ## Renseignements sur le projet – Description
 
 - Offrir aux employés une formation sur mesure en cybersécurité afin de veiller à ce qu’ils soient au courant des vecteurs d’attaque comme l’hameçonnage et comment repérer les courriels ou les liens suspects.
-- Segmenter les réseaux en zones de réseau, ce qui entend également de séparer les informations sensibles et de grande valeur en différentes zones dans la mesure du possible, afin d’empêcher la prolifération des logiciels malveillants parmi les systèmes cibles potentiels.
+- Segmenter les réseaux en zones de réseau, ce qui entend également de séparer les informations sensibles et de grande valeur en différentes zones là où nécessaire, afin d’empêcher la prolifération des logiciels malveillants parmi les systèmes cibles potentiels.
 - Utiliser la protection du domaine de messagerie pour protéger les domaines de votre organisation contre l’usurpation par courrier électronique, empêcher la transmission de messages malveillants envoyés pour le compte de votre domaine et déterminer l’infrastructure utilisée par les acteurs de menaces.
 - Utiliser un accès à distance sécurisé aux services, conformément aux [exigences de configuration de l’accès à distance](https://www.gcpedia.gc.ca/gcwiki/images/7/7e/Remote_Access_Configuration_Requirements.pdf) du GC.
 - Bloquer l’accès aux ressources Web potentiellement malveillantes. Utiliser des outils et la technologie qui bloquent l’accès aux noms de serveurs, aux adresses IP, aux ports et aux protocoles qui sont reconnus comme étant malveillants ou soupçonnés d’être des indicateurs d’activité malveillante du système.
@@ -23,8 +23,9 @@ SCT
 1. Directive sur les services et le numérique, [annexe G : Normes relatives aux services de la TI intégrée – Configuration requise pour la gestion des courriels (1.3)](https://www.gcpedia.gc.ca/gcwiki/images/a/a1/6_-_Exigences_en_matiÃ¨re_de_configuration_pour_les_services_de_gestion_des_cour.pdf)
 2. Directive sur les services et le numérique, annexe G - [Exigences de configuration de l’accès à distance (3 et 4)](https://www.gcpedia.gc.ca/gcwiki/images/7/7e/Remote_Access_Configuration_Requirements.pdf)
 3. Directive sur les services et le numérique, annexe G - [Exigences de configuration de la gestion du système (3, 4 et 5)](https://www.gcpedia.gc.ca/gcwiki/images/d/df/8_-_Exigences_de_configuration_de_lâ€™accÃ¨s_Ã_distance.pdf)
-4. [DGS annexe B](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32611#appB) (B.2.3.6.1, B.2.3.7.2 et , B.2.3.7.3), et
-5. [DGS annexe H](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32611#appH) (H.2.2.2 et H.2.2.2.3)
+4. Directive sur les services et le numérique, annexe G – [Exigences de configuration de la gestion des points d’extrimité](https://www.gcpedia.gc.ca/gcwiki/images/c/c8/5_-_Exigences_de_configuration_de_la_gestion_des_points_d%C3%A2%E2%82%AC%E2%84%A2extr%C3%83%C2%A9mit%C3%83%C2%A9.pdf) (5)
+5. [DGS annexe B](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32611#appB) (B.2.3.6.1, B.2.3.7.2 et , B.2.3.7.3), et
+6. [DGS annexe H](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32611#appH) (H.2.2.2 et H.2.2.2.3)
 
 CCCS
 
