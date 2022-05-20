@@ -1,6 +1,6 @@
 # Regularly Backup Important Data and Systems
 
-([Back](#guidelines))
+([Back](/README.md#guidelines))
 
 ## Objective
 

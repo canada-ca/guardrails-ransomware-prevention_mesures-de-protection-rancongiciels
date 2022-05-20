@@ -1,6 +1,6 @@
 # Établir des exigences en matière de sécurité des contrats pour les fournisseurs tiers
 
-[Retourner](#lignes-directrices)
+([Retourner](/README.md#lignes-directrices))
 
 ## Objectif
 

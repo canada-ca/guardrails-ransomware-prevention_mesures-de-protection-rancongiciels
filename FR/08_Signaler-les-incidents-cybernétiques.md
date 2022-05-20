@@ -1,6 +1,6 @@
 # Signaler les incidents cybernétiques
 
-[Retourner](#lignes-directrices)
+([Retourner](/README.md#lignes-directrices))
 
 ## Objectif
 

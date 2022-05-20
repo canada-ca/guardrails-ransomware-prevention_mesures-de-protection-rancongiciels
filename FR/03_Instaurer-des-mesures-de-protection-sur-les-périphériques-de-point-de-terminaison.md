@@ -1,6 +1,6 @@
 # Instaurer des mesures de protection sur les périphériques de point de terminaison
 
-[Retourner](#lignes-directrices)
+([Retourner](/README.md#lignes-directrices))
 
 ## Objectif
 

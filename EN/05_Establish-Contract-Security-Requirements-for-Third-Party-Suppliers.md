@@ -1,6 +1,6 @@
 # Establish Contract Security Requirements for Third-Party Suppliers
 
-([Back](#guidelines))
+([Back](/README.md#guidelines))
 
 ## Objective
 
