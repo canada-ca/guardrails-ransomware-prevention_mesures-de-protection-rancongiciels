@@ -1,5 +1,7 @@
 # Apply Protection Measures on Endpoint Devices
 
+([Back](#guidelines))
+
 ## Objective
 
 Prevent malware from running on devices by keeping them well- configured, patched and up to date.

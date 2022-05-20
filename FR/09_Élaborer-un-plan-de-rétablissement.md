@@ -1,5 +1,7 @@
 # Élaborer un plan de rétablissement
 
+[Retourner](#lignes-directrices)
+
 ## Objectif
 
 Élaborer et mettre en œuvre un plan de rétablissement par suite d’incidents, y compris la détermination des services critiques pour permettre la priorisation du rétablissement et des plans de continuité des activités pour ces services critiques.

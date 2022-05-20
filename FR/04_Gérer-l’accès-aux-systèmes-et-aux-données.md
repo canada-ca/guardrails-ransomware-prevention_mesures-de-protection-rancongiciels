@@ -1,5 +1,7 @@
 # Gérer l’accès aux systèmes et aux données
 
+[Retourner](#lignes-directrices)
+
 ## Objectif
 
 Protéger les comptes qui sont utilisés pour accéder aux systèmes et aux données afin de limiter la possibilité de propagation des logiciels malveillants.

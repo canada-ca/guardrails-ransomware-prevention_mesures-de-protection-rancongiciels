@@ -1,5 +1,7 @@
 # Instaurer des mesures de protection sur les périphériques de point de terminaison
 
+[Retourner](#lignes-directrices)
+
 ## Objectif
 
 Empêcher les logiciels malveillants de fonctionner sur les périphériques en conservant ces derniers bien configurés, corrigés et à jour.

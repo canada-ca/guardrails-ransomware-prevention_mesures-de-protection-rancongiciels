@@ -1,5 +1,7 @@
 # Établir des exigences en matière de sécurité des contrats pour les fournisseurs tiers
 
+[Retourner](#lignes-directrices)
+
 ## Objectif
 
 Veiller à ce que des contrats avec les fournisseurs tiers soient établis pour protéger les renseignements et les biens du gouvernement contre les logiciels malveillants.

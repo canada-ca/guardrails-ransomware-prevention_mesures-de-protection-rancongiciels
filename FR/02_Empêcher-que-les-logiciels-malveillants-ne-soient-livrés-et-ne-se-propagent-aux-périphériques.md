@@ -1,5 +1,7 @@
 # Empêcher que les logiciels malveillants ne soient livrés et ne se propagent aux périphériques
 
+[Retourner](#lignes-directrices)
+
 ## Objectif
 
 Mettre en œuvre et maintenir un modèle de défense en profondeur pour prévenir la livraison et la propagation de logiciels malveillants aux dispositifs et à l’ensemble des réseaux.
