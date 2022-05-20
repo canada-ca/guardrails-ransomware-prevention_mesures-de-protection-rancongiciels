@@ -1,5 +1,7 @@
 # Sauvegarder régulièrement les données et les systèmes importants
 
+[Retourner](#lignes-directrices)
+
 ## Objectif
 
 Effectuer des sauvegardes hors ligne des systèmes qui contiennent des données importantes et veiller à ce que les mécanismes de récupération restaurent de manière efficace et efficiente ces systèmes à partir des sauvegardes.

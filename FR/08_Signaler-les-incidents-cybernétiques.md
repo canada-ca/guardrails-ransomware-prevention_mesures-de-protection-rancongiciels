@@ -1,5 +1,7 @@
 # Signaler les incidents cybernétiques
 
+[Retourner](#lignes-directrices)
+
 ## Objectif
 
 Signaler les incidents liés aux rançongiciels aux organisations internes et externes pertinentes afin qu’elles puissent fournir des réponses rapides et efficaces par rapport à ceux-ci.

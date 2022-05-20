@@ -1,5 +1,7 @@
 # Se préparer à un incident
 
+[Retourner](#lignes-directrices)
+
 ## Objectif
 
 Établir un plan de gestion des incidents, assorti de mesures, de rôles et de responsabilités clairement définis, afin de veiller à ce que les incidents de cybersécurité soient maîtrisés, éliminés et récupérés en temps opportun.
