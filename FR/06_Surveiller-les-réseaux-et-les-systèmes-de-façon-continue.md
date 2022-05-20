@@ -1,6 +1,6 @@
 # Surveiller les réseaux et les systèmes de façon continue
 
-[Retourner](#lignes-directrices)
+([Retourner](/README.md#lignes-directrices))
 
 ## Objectif
 

@@ -1,6 +1,6 @@
 # Gérer l’accès aux systèmes et aux données
 
-[Retourner](#lignes-directrices)
+([Retourner](/README.md#lignes-directrices))
 
 ## Objectif
 

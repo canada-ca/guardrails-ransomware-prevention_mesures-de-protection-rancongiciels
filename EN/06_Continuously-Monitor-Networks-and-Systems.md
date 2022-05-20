@@ -1,6 +1,6 @@
 # Continuously Monitor Networks and Systems
 
-([Back](#guidelines))
+([Back](/README.md#guidelines))
 
 ## Objective
 

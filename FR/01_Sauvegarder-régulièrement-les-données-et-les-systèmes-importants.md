@@ -1,6 +1,6 @@
 # Sauvegarder régulièrement les données et les systèmes importants
 
-[Retourner](#lignes-directrices)
+([Retourner](/README.md#lignes-directrices))
 
 ## Objectif
 
