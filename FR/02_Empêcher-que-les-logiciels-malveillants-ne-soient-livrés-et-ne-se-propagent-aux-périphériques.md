@@ -1,6 +1,6 @@
 # Empêcher que les logiciels malveillants ne soient livrés et ne se propagent aux périphériques
 
-([Retourner](/README.md#lignes-directrices))
+([Retourner](../README.md))
 
 ## Objectif
 

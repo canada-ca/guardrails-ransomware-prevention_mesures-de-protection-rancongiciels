@@ -1,6 +1,6 @@
 # Develop a Recovery Plan
 
-([Back](/README.md#guidelines))
+([Back](../README.md))
 
 ## Objective
 

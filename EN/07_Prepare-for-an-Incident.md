@@ -1,6 +1,6 @@
 # Prepare for an Incident
 
-([Back](/README.md#guidelines))
+([Back](../README.md))
 
 ## Objective
 
