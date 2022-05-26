@@ -1,6 +1,6 @@
 # Apply Protection Measures on Endpoint Devices
 
-([Back](/README.md#guidelines))
+([Back](../README.md))
 
 ## Objective
 

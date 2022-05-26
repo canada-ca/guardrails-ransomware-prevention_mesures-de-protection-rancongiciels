@@ -1,6 +1,6 @@
 # Se préparer à un incident
 
-([Retourner](/README.md#lignes-directrices))
+([Retourner](../README.md))
 
 ## Objectif
 

@@ -1,6 +1,6 @@
 # Élaborer un plan de rétablissement
 
-([Retourner](/README.md#lignes-directrices))
+([Retourner](../README.md))
 
 ## Objectif
 

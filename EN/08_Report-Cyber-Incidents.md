@@ -1,6 +1,6 @@
 # Report Cyber Incidents
 
-([Back](/README.md#guidelines))
+([Back](../README.md))
 
 ## Objective
 
